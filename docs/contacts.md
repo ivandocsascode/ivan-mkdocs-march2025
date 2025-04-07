@@ -1,5 +1,0 @@
-## Contacts
-
-* tel
-* email
-* address

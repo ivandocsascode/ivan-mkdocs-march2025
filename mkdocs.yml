@@ -3,8 +3,9 @@ Site_description: Тестируем MkDocs самостоятельно чер�
 theme: material
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Contacts: contacts.md
+  - Главная: index.md
+  - О курсе: about.md
   - API Reference: dist/index.html
+  - Контакты: Контакты.md
+  - Благодарность: Благодарность.md
   
