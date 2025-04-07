@@ -4,7 +4,7 @@ theme: material
 
 nav:
   - Главная: index.md
-  - О курсе: О курсе.md
+  - О курсе: About.md
   - API Reference: dist/index.html
   - Контакты: Контакты.md
   - Благодарность: Благодарность.md
