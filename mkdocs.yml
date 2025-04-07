@@ -5,7 +5,7 @@ theme: material
 nav:
   - Главная: index.md
   - О курсе: About.md
-  - API Reference: dist/index.html
+  - Справочник API: dist/index.html
   - Контакты: Контакты.md
   - Благодарность: Gratitude.md
   
